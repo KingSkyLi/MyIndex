@@ -1,5 +1,6 @@
 module.exports = {
   title: 'TuGraph 博客',
+  base: '/MyIndex/',
   description: 'This is a blog example built by VuePress',
   theme: '@vuepress/theme-blog', // OR shortcut: @vuepress/blog,
   lang: 'zh_CN',
