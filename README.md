@@ -1,24 +1,13 @@
-# my-index
+# TuGraph-Blog
 
-## Project setup
-```
-npm install
-```
+> 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Development
 
-### Compiles and minifies for production
-```
-npm run build
+```bash
+yarn dev
+yarn build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+For more details, please head VuePress's [documentation](https://v1.vuepress.vuejs.org/).
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
